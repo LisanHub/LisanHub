@@ -34,9 +34,9 @@ I'm a final-year **Computer Science & Engineering** student at Daffodil Internat
 
 ---
 
-## 🔬 Research & Thesis
+## 🔬 Undergrad Thesis
 
-**Thesis:** *Hybrid Quantum-Classical Regression Model for Remaining Useful-Life Prediction of Rolling Bearings*
+**Title:** *Hybrid Quantum-Classical Regression Model for Remaining Useful-Life Prediction of Rolling Bearings*
 *(Supervised by Dr. Md Alamgir Kabir)*
 
 - Developed a hybrid quantum–classical framework for noise-resilient **RUL prediction** on the XJTU-SY bearing dataset
