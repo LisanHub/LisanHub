@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a final-year **Computer Science & Engineering** student at Daffodil International University, with my work sitting at the intersection of **machine learning**, **predictive maintenance**, and **quantum machine learning**. I've gained international academic experience through the **Erasmus+ KA107** program at Mälardalen University, Sweden, and I'm actively contributing to peer-reviewed research — from systematic reviews to applied modeling.
+As a research enthusiast, my work sits at the intersection of machine learning, predictive maintenance, and a growing focus on quantum machine learning. I bring international academic experience through the Erasmus+ program and am currently contributing to peer-reviewed research spanning from systematic reviews to applied modeling. I am looking for the next challenge that takes me beyond my current research scope.
 
 > *"I am looking for the next challenge that takes me beyond my current research scope."*
 
