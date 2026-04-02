@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-As a research enthusiast, my work sits at the intersection of machine learning, predictive maintenance, and a growing focus on quantum machine learning. I bring international academic experience through the Erasmus+ program and am currently contributing to peer-reviewed research spanning from systematic reviews to applied modeling. I am looking for the next challenge that takes me beyond my current research scope.
+As a research enthusiast, my work sits at the intersection of machine learning, predictive maintenance, and a growing focus on quantum machine learning. I bring international academic experience through the Erasmus+ program and am currently contributing to peer-reviewed research spanning from systematic reviews to applied modeling.
 
 > *"I am looking for the next challenge that takes me beyond my current research scope."*
 
