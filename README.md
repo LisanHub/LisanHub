@@ -134,4 +134,4 @@ Physics-Informed Models   ████████████░░░░░░
 <p align="center">
   <i>Open to research collaborations, MS/PhD opportunities, and challenging ML engineering roles.</i><br/>
   📬 Reach me at <a href="mailto:lisan15-5426@diu.edu.bd">lisan15-5426@diu.edu.bd</a>
-</p>
+</p> 
